@@ -7,3 +7,4 @@ List of elements we need:
 2. A Flashlight
 3. First aid kit
 4. A sunblocker
+5. Mosquito repellent
